@@ -234,6 +234,8 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
 * [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/pdf/2005.06409) - Kim H et al, `ACL 2020`.
 
+#### *`ECCV 2020`*
+* [Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets](https://arxiv.org/abs/2007.06877) - Jiuniu W et al, `ECCV 2020`.
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
